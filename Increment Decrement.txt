@@ -1,0 +1,49 @@
+Introduction: In C Program we can use unary operators. That operates on a single operand to produce new value. Where Increment (++) and Decrement (--) Operators are mostly used to change values by 1. It can be used on numeric type variables such as integer, float, character, pointers, etc. These two are most frequently used operation in programming.
+
+Methodology: 
+
+# Ways of Using: Increment & Decrement Operator can be used in two ways.
+	1. Prefix (++variable / --variable)
+	2. Postfix (variable++ / variable--)
+
+
+#Executing Codes:
+	1. Pre Increment 
+	2. Post Increment
+	3. Pre Decrement
+	4. Post Decrement
+#Explanation for Executing Codes:
+	1. Common Explanation (explaining the similar line of all executing codes)
+	2. Pre & Post -> Increment & Decrement 
+
+1. Pre Increment (bold)
+	(paste code here)
+Output Screenshot of Pre Increment: (bold underln)
+	(screenshot here)  
+2. Post Increment (bold)
+	(paste code here)
+Output Screenshot of Post Increment: (bold underln)
+	(screenshot here)
+3. Pre Decrement (bold)
+	(paste code here)
+Output Screenshot of Pre Decrement: (bold underln)
+	(screenshot here)
+4. Post Decrement (bold)
+	(paste code here)
+Output Screenshot of Post Decrement: (bold underln)
+	(screenshot here)
+
+
+Common Explanation: Firstly define two integer data type variables (apple, orange). Where initially both variables assigned value is set to zero. Thereafter we call printf() function to print (apple, orange) variables assigned value. As expected it's output for apple(0), orange(0).Then call scanf() function to get input from user. Assign input value to our defined variable (apple). We call printf() function again to show the changes value of our defined variables (apple, orange). As expected it's output value for apple = (user input).
+
+1. Pre Increment: [orange = ++apple] where variable apple value is incremented by +1 before assign to variable (orange).
+2. Post Increment: [orange = apple++] where variable apple value is incremented by +1, but the value is assign to (orange) before the increment.
+3. Pre Decrement: [orange = --apple] where variable apple value is Decremented by -1 before assign to variable (orange).
+4. Post Decrement: [orange = apple++] where variable apple value is Decremented by -1, but the value is assign to (orange) before the decrement.
+
+
+
+
+
+
+	
